@@ -297,3 +297,17 @@ Website: https://nayaprayog.com/
 © Naya Prayog Technologies. All rights reserved.
 
 **Note:** This repository is a product and service showcase. It does not distribute the complete proprietary EduSuite source code or grant permission to reproduce, redistribute, or commercially use the software.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Attendance</b><br><br><img src="screenshots/2-attendance.png" alt="Attendance"></td>
+    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/3-students.png" alt="Students"></td>
+  </tr>
+</table>
