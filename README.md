@@ -14,6 +14,22 @@ Whether you are establishing a new school, digitizing an existing institution, o
 
 ---
 
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Attendance</b><br><br><img src="screenshots/2-attendance.png" alt="Attendance"></td>
+    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/3-students.png" alt="Students"></td>
+  </tr>
+</table>
+
+---
+
 ## What Is a School Management System?
 
 A School Management System is software that helps educational institutions manage their day-to-day academic and administrative operations from a centralized platform.
@@ -297,17 +313,3 @@ Website: https://nayaprayog.com/
 © Naya Prayog Technologies. All rights reserved.
 
 **Note:** This repository is a product and service showcase. It does not distribute the complete proprietary EduSuite source code or grant permission to reproduce, redistribute, or commercially use the software.
-
-<!-- screenshots -->
-## Screenshots
-
-**Dashboard**
-
-![Dashboard](screenshots/1-dashboard.png)
-
-<table>
-  <tr>
-    <td align="center" width="50%"><b>Attendance</b><br><br><img src="screenshots/2-attendance.png" alt="Attendance"></td>
-    <td align="center" width="50%"><b>Students</b><br><br><img src="screenshots/3-students.png" alt="Students"></td>
-  </tr>
-</table>
